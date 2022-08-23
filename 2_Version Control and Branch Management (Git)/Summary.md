@@ -1,13 +1,13 @@
 # Version control dan Branch Management (Git)
 
-1. Versioning
-  Versioning berfungsi untuk mengatur versi dari source code program. 
-  Sejarah Version control :
+1. Versioning.
+  > Versioning berfungsi untuk mengatur versi dari source code program. 
+   Sejarah Version control :
   -	Single User (1972)
   -	Centralized (1986)
   -	Distributed (2005) yaitu Git
-2.	Git dan Github
-  GIT adalah salah satu version control system yang popular dikalangan Devloper yang berfungsi untuk mengembangan software secara bersama-sama (kolaborasi). Keunggulan dari GIT, dia dapat melacak perubahan yang terjadi.
+2.	Git dan Github.
+  GIT adalah salah satu version control system yang popular dikalangan Devloper yang berfungsi untuk mengembangan software secara bersama-sama (kolaborasi). Keunggulan   dari GIT, dia dapat melacak perubahan yang terjadi.
   Sedangkan Github adalah layanan yang berguna untuk menyimpan sekaligus mengelola projek yang dinamakan repository.
 3.	Beberapa fitur dan command pada Git
   -	Setting up git, dengan cara  melakukan config dengan command :
