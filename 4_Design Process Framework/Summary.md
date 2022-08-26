@@ -59,7 +59,33 @@ Desing Thinking adalah salah satu framework UI/UX yang berpusat pada user untuk 
 > Proses pada Design Thinking :
 - Empathize 
 
-  abc
+  Proses ini merupakan cara berempati kepada pengguna dengan melakukan riset. Pada proses ini kita memahami apa yang dirasakan/dipikirkan oleh pengguna. Dalam  melakukan riset dapat melakukan waeancara bersama user
+  
+  Output : Hasil riset/ User Researh
+  
+- Define 
+
+  Melakukan analisis dari hasil riset sebelumnya dan menentukan masalah 
+  
+  Output : Empathy map, User Persona, User Journey
+
+- Ideate
+
+  Mencari ide sebanyak-banyaknya untuk menyelesaikan masalah user
+  
+  Output : Anfinity Diagram, Wireframe, User Flow, Task Flow
+ 
+- Prototype
+  Membuat prototype dari ide/solusi yang telah ditentukan
+  
+  Output : High fidelity UI
+  
+- Test
+  
+  Melakukan testing dari prototype yang telah dibuat, apakah solusi tersebut benar dapat menyelesaikan masalah user.
+  
+  Output : Syntezied Testing Result
+ 
 
 
 
