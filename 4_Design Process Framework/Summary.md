@@ -59,7 +59,7 @@ Desing Thinking adalah salah satu framework UI/UX yang berpusat pada user untuk 
 > Proses pada Design Thinking :
 - Empathize 
 
-abc
+  abc
 
 
 
