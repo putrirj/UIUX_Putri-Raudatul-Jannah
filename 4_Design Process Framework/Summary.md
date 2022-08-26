@@ -57,8 +57,9 @@ Framework berguna untuk :
 
 Desing Thinking adalah salah satu framework UI/UX yang berpusat pada user untuk menyelesaikan masalah user. Design thinking ini memiliki sifat non-linear dan iterative atau berulang
 > Proses pada Design Thinking :
-- Empathize
-defwfe
+- Empathize 
+
+abc
 
 
 
