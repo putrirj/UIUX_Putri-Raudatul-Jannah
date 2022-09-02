@@ -22,7 +22,7 @@ Interface struktur adalah sebuah susunan dari berbagai macam komponen yang menja
 11. dll
 
 ## Flow Mapping
-### User FLOW
+### User Flow
 Langkah-langkah yang sudah divisualisasikan dan dapat diikuti pengguna melalui aplikasi untuk menyelesaikan suatu tugas
 
 ## Pentingnya Flow Mapping
