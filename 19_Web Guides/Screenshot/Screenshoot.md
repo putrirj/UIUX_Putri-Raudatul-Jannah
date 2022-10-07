@@ -1,1 +1,1 @@
-![Screenshot (316)](https://user-images.githubusercontent.com/87315357/193255906-60fdefb3-22d0-4de5-a14f-c4d1c1a02140.png)
+<img width="957" alt="web guide" src="https://user-images.githubusercontent.com/87315357/194499594-6aaf451d-4e18-4d63-8d35-af13c032b53d.png">
